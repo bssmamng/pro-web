@@ -36,6 +36,14 @@ body {
   z-index: 1000;
 }
 
+#header .fa-hamburger {
+  font-size: 4rem;
+  z-index: 10000;
+  color: #FFF200;
+  cursor: pointer;
+  display: none;
+}
+
 #header nav ul {
   display: -webkit-box;
   display: -ms-flexbox;
